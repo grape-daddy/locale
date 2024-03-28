@@ -1,0 +1,6 @@
+files:
+  - source: /messages.pot
+    translation: /%locale_with_underscore%/LC_MESSAGES/messages.po
+pull_request_title: '[Automated] Crowdin synchronization'
+pull_request_labels:
+  - crowdin
